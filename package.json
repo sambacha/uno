@@ -1,0 +1,25 @@
+{
+  "name": "unomeharder",
+  "version": "0.1.0",
+  "description": "once, i mean uno call a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/uno.git"
+  },
+  "author": "SEE CONTRIBUTORS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambacha/uno/issues"
+  },
+  "homepage": "https://github.com/sambacha/uno#readme",
+  "devDependencies": {
+    "tap": "^14.10.8"
+  },
+  "dependencies": {
+    "wrappy": "^1.0.2"
+  }
+}
