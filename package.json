@@ -1,6 +1,6 @@
 {
   "name": "unomeharder",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "once, i mean uno call a function",
   "main": "index.js",
   "scripts": {
